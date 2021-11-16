@@ -1,0 +1,3 @@
+com\aws\lambdacrudsoccer\Handler.class
+com\aws\lambdacrudsoccer\Team.class
+com\aws\lambdacrudsoccer\Request.class
